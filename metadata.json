@@ -1,0 +1,6 @@
+{
+  "name": "ipath Infotech - HR Resume Screener & Shortlisting Engine",
+  "description": "Automated candidate screening and resume ranking platform for HR teams. Ingests CVs, matches qualifications against job descriptions, highlights top candidates, and streamlines shortlisting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
